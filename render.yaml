@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: vn-ledger-api
+    runtime: docker
+    branch: main
+    plan: free
